@@ -1,3 +1,20 @@
 # doctor-appointment-site
 About this project
-Doctor Appointment website quite useful website. In this project it consists of 3 parts. First one is backend, second one is frontend and last one is admin. You can easly sign up and sign in that page. And then you can see home, all doctors , about and contact page. If you go to the all doctor page you can choose specialization of doctor. If you choose one doctor after doing that immediately will going to the doctor personel page, and then you will choose easely appontment date. If maybe you change you desicion, you should profile page and cancel you appointment. I gave some rights the admin panel. A few of them, add a doctor personel information, graduation, specialization and picture and so on. This website I made three weeks it took quite such a long time but it's very developing myself and learn lots of new things.
+🩺 Doctor Appointment Website – Simple Description
+This is a useful doctor appointment website. The project has three parts: the backend, the frontend, and the admin panel.
+
+Users can sign up and log in easily. After logging in, they can visit pages like Home, All Doctors, About, and Contact.
+
+On the All Doctors page, users can filter doctors by specialization. When a doctor is selected, it takes the user to that doctor’s profile page, where they can book an appointment date.
+
+If the user changes their mind, they can go to their profile page and cancel the appointment.
+
+The admin panel has some special features:
+
+Add new doctors
+
+Add doctor’s education, specialization, and profile picture
+
+I built this project in three weeks. It took some time, but it helped me learn a lot and improve my skills.
+
+
